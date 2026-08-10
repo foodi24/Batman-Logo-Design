@@ -98,6 +98,7 @@ The project also demonstrates how CAD software can be used to transform simple s
 ---
 
 ## 🔗 Link of the design
+To open the link, right click then copy link address then paste it in a new tab:
 https://cad.onshape.com/documents/6fc4f0edfe08c95f0112886e/w/ccab249acba555937cbc4b13/e/b0350a2cad74e8d90a890d21?renderMode=0&uiState=6a795b42bcb4ca1dd1f280c7
 
 ---
